@@ -8,6 +8,7 @@
   <img align="center" alt="Lua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="right" alt="Lua-pic" height="150" style="border-radius:50px;" src="![download20220600145443](https://user-images.githubusercontent.com/104776768/175828352-7ba2da7a-e79e-4008-a164-9435bede8492.png)">
 </div>
   
   ##
