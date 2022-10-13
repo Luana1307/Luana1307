@@ -1,4 +1,4 @@
-### Olá! Eu sou a Luana Santana e sou estudante de Salesforce.
+### Olá! Eu sou a Luana Santana e sou Desenvolvedora Salesforce.
 <div align="center">
   <a href="https://github.com/Luana1307">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luana1307&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
